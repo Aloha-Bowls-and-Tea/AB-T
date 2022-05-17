@@ -1,6 +1,10 @@
 sass:
   sass_dir: _sass
 
+url: "alohabowlsandtea.github.io"
+plugins:
+  - jekyll-sitemap
+
 defaults:
   -
     scope:
